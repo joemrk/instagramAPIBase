@@ -1,0 +1,11 @@
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\bin\Debug\netcoreapp2.2\InstaApi.deps.json
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\bin\Debug\netcoreapp2.2\InstaApi.runtimeconfig.json
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\bin\Debug\netcoreapp2.2\InstaApi.runtimeconfig.dev.json
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\bin\Debug\netcoreapp2.2\InstaApi.dll
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.csprojAssemblyReference.cache
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.csproj.CoreCompileInputs.cache
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.AssemblyInfoInputs.cache
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.AssemblyInfo.cs
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\bin\Debug\netcoreapp2.2\InstaApi.pdb
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.dll
+C:\Users\joe\Desktop\с #\insta\InstaApi\InstaApi\obj\Debug\netcoreapp2.2\InstaApi.pdb

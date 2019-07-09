@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joe\\Desktop\\с #\\insta\\InstaApi\\InstaApi\\InstaApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joe\\Desktop\\с #\\insta\\InstaApi\\InstaApi\\InstaApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joe\\Desktop\\с #\\insta\\InstaApi\\InstaApi\\InstaApi.csproj",
+        "projectName": "InstaApi",
+        "projectPath": "C:\\Users\\joe\\Desktop\\с #\\insta\\InstaApi\\InstaApi\\InstaApi.csproj",
+        "packagesPath": "C:\\Users\\joe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joe\\Desktop\\с #\\insta\\InstaApi\\InstaApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "InstaSharper": {
+              "target": "Package",
+              "version": "[1.4.82, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
